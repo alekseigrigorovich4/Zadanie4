@@ -10,7 +10,7 @@ namespace Zadanie1
             int A = int.Parse(Console.ReadLine());
 
             Console.Write("Введите число B: ");
-            int B = int.Parse(Console.ReadLine());
+            int B = int.Parse(Console.ReadLine());//вот тут вот менял умгмуг
 
             // Проверка: A должно быть меньше или равно B
             if (A > B)
